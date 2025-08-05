@@ -12,7 +12,9 @@
 
 
 
+
  PROJECT OVERVIEW
+ 
 
 Industrial machines are critical to manufacturing and production industries, but unexpected failures often result in high maintenance costs, unplanned downtime, and production delays.
 
@@ -24,6 +26,7 @@ Key Benefits:
 * Proactive maintenance reduces repair frequency and costs.
 * Extended machine lifespan through better utilization.
 * Improved operational efficiency by minimizing downtime.
+
 
 
 
@@ -40,7 +43,9 @@ The project aims to:
 
 
 
+
  PROPOSED SOLUTION
+
 
 The system integrates data collection, preprocessing, machine learning, and cloud deployment to deliver accurate predictions and real-time monitoring.
 
@@ -75,6 +80,7 @@ Data Preprocessing
 
 
 
+
  SYSTEM DEVELOPMENT APPROACH
 
  System Requirements
@@ -87,6 +93,8 @@ Data Preprocessing
 * IBM Watsonx.ai Studio
 * Python libraries: Scikit-learn, XGBoost, TensorFlow/PyTorch, Pandas, Numpy, Matplotlib
 * Runtime environment: IBM Runtime support for ML models
+
+
 
 
 
@@ -124,6 +132,8 @@ Data Preprocessing
 
 
 
+
+
  RESULTS AND OUTPUT
 
 The predictive maintenance model provides:
@@ -132,6 +142,8 @@ The predictive maintenance model provides:
 * Reduced downtime and maintenance costs
 * Increased operational efficiency across industrial systems
 * Improved decision-making for maintenance scheduling
+
+
 
 
  CONCLUSION
@@ -143,6 +155,8 @@ This project successfully demonstrates the potential of machine learning for pre
 * Provides a scalable, real-time industrial solution
 * Supports data-driven asset management
 
+
+
  FUTURE SCOPE
 
 * Use advanced AI models such as Transformer-based architectures and hybrid CNN-LSTM models
@@ -152,10 +166,14 @@ This project successfully demonstrates the potential of machine learning for pre
 * Incorporate explainable AI for interpretable predictions
 
 
+
+
  REFERENCES
 
 * [Kaggle: Machine Predictive Maintenance Dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 * [IBM Cloud Documentation](https://cloud.ibm.com/docs)
+
+
 
  
 
